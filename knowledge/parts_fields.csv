@@ -1,0 +1,12 @@
+task, part,field,description
+antecedente de propiedad,proemio,número de escritura,Número escrito en letras de la escritura o instrumento
+antecedente de propiedad,proemio,fecha de escritura,Fecha formal escrita en letras de la escritura o instrumento (sólo fecha sin el lugar)
+antecedente de propiedad,proemio,notario,Nombre del Notario (sin títulos o grados académicos)
+antecedente de propiedad,proemio,número de notaría,Número escrito en letras de la Notaría (sólo el número)
+antecedente de propiedad,proemio,lugar de la notaría,"Ciudad, Estado o Distrito de la Notaría (sólo la Ciudad y Estado)"
+antecedente de propiedad,proemio,acto jurídico,Tipo de contrato por medio del cual se hace la transmisión de la propiedad
+antecedente de propiedad,propiedad,superficie y colindancias,"Superficie (en metros cuadrados), rumbos, medidas (en metros) y colindancias (linderos) del inmueble"
+antecedente de propiedad,transmisión,adquirente,"Nombre de la persona (individuo) u organización empresarial (sin los nombres de los representantes) quién adquiere el inmueble, los derechos de habitación o el usufructo."
+antecedente de propiedad,transmisión,descripción del inmueble,Descripción completa del inmueble que se adquiere
+antecedente de propiedad,precio,precio de venta,Precio de venta o el valor de la operación con el que se transmite la propiedad
+antecedente de propiedad,generales,estado civil,Situación legal de las personas (individuos) en relación con su matrimonio o uniones civiles.

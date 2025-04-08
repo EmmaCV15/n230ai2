@@ -1,0 +1,12 @@
+task,field,description
+proemio,número de escritura,Número escrito en letras de la escritura o instrumento
+proemio,fecha de escritura,Fecha formal escrita en letras de la escritura o instrumento (sólo fecha sin el lugar)
+proemio,notario,Nombre del Notario (sin títulos o grados académicos)
+proemio,número de notaría,Número escrito en letras de la Notaría (sólo el número)
+proemio,lugar de la notaría,"Ciudad, Estado o Distrito de la Notaría (sólo la Ciudad y Estado)"
+proemio,acto jurídico,Tipo de contrato por medio del cual se hace la transmisión de la propiedad
+propiedad,superficie y colindancias,"Superficie (en metros cuadrados), rumbos, medidas (en metros) y colindancias (linderos) del inmueble"
+transmisión,adquirente,"Nombre de la persona (individuo) u organización empresarial (sin los nombres de los representantes) quién adquiere el inmueble, los derechos de habitación o el usufructo."
+transmisión,descripción del inmueble,Descripción completa del inmueble que se adquiere
+precio,precio de venta,es el precio de venta o el valor de la operación con el que se transmite la propiedad
+generales,estado civil,Situación legal de las personas (individuos) en relación con su matrimonio o uniones civiles.

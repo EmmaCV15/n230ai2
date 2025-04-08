@@ -1,0 +1,100 @@
+[ES]
+**Instrucciones:**
+- Extrae los campos definidos a continuación del documento proporcionado.
+- Usa las palabras clave circundantes y las ubicaciones indicadas para identificar cada campo. Luego, genera un texto siguiendo la plantilla proporcionada.
+---
+**Definiciones de Campos:**
+1. **[NÚMERO DE ESCRITURA EN LETRAS]:**
+   - Definición: Número escrito en letras del Instrumento o Escritura Notarial.
+   - Ubicación: Proemio del documento en los cuatro primeros renglones del documento,
+                Precedido por la palabra "INSTRUMENTO" o "ESCRITURA" o solamente el número escrito en letras,
+                Antes de la sección ANTECEDENTES.
+   - Ejemplo: "CUARENTA Y CINCO MIL TRESCIENTOS DOCE".
+
+2. **[FECHA COMPLETA EN LETRAS DE LA ESCRITURA]:**
+   - Definición: Fecha en letras en la que se redactó el Instrumento.
+   - Ubicación: Proemio del documento en los cuatro primeros renglones del documento,
+                Precedida por una Ciudad o Estado,
+                Antes de la sección ANTECEDENTES.
+   - Ejemplo: "primero de enero de mil novecientos noventa y nueve".
+
+3. **[NOMBRE COMPLETO DEL NOTARIO]:**
+   - Definición: Nombre completo del Notario Público.
+   - Ubicación: Proemio del documento en los cuatro primeros renglones del documento,
+                Precedido por la palabra "Licenciado" o "Licenciada",
+                Antes de la palabra "Titular",
+                Antes de la frase: 'hago constar' o 'consto',
+                Antes de la sección ANTECEDENTES.
+   - Ejemplo: "Juan Carlos López Álvarez del Castillo".
+
+4. **[NÚMERO DE NOTARÍA EN LETRAS]:**
+   - Definición: Número oficial de la Notaría.
+   - Ubicación: Proemio del documento en los cuatro primeros renglones del documento,
+                Precedido por "Notaría Número" o "Notaría",
+                Antes de la Ciudad y/o Estado de la jurisdicción de la Notaría',
+                Antes de la frase: 'hago constar' o 'consto',
+                Antes de la sección ANTECEDENTES.
+   - Ejemplo: "Ciento Veinte".
+
+5. **[JURISDICCIÓN DE LA NOTARÍA]:**
+   - Definición: Ciudad y/o Estado donde opera la Notaría.
+   - Ubicación: Proemio del documento en los cuatro primeros renglones del documento,
+                Precedido por la frase: "Notaría Número XX de " o "Notaría XX de".
+                Antes de la frase: 'hago constar' o 'consto'
+   - Ejemplo: "Cuernavaca, Estado de Morelos".
+
+5. **[NOMBRE COMPLETO DEL ADQUIRENTE]:**
+   - Definición: Nombre completo de quien adquiere el inmueble, a veces identificada como LA PARTE COMPRADORA, EL COMPRADOR, EL DONATARIO, EL ADJUDICATARIO.
+   - Ubicación: Proemio del documento en los cuatro primeros renglones del documento,
+                Dentro del párrafo donde se resume el acto jurídico donde se transmite la propiedad del inmueble.
+                Antes de la sección ANTECEDENTES.
+   - Ejemplo: "María de los Ángeles Cruz Hernández".
+
+6. **[ESTADO CIVIL AL MOMENTO DE LA ADQUISICIÓN]:**
+   - Definición: Estado civil del adquirente al momento de la adquisición.
+   - Ubicación: Al final del documento en la sección Generales de los comparecientes,
+                Precedido por "declaran por sus generales ser",
+                Debe corresponder al Adquirente.
+   - Ejemplo: "casada bajo el régimen de separación de bienes".
+
+7. **[ACTO JURÍDICO DE ADQUISICIÓN]:**
+   - Definición: Acto jurídico mediante el cual se transmite la propiedad.
+   - Ubicación: Proemio del documento.
+   - Ejemplos: "CONTRATO DE COMPRAVENTA", "CONTRATO DE DONACIÓN", "TRANSMISIÓN DE PROPIEDAD", "ADJUDICACIÓN POR HERENCIA"
+
+8. **[IMPORTE DEL PRECIO DE ADQUISICIÓN]:**
+   - Definición: Precio en letras seguido por "PESOS, MONEDA NACIONAL".
+   - Ubicación: Cláusula segunda del contrato donde se transmite la propiedad del inmueble.
+   - Ejemplo: "DOS MILLONES NOVECIENTOS MIL PESOS, MONEDA NACIONAL".
+
+9. **[DESCRIPCIÓN COMPLETA DEL INMUEBLE ADQUIRIDO]:**
+   - Definición: Descripción íntegra del inmueble sin modificaciones.
+   - Ubicación: Cláusula primera del contrato, donde se formaliza la transmisión del inmueble,
+                Después de la palabra "adquiere" o "adquieren".
+   - Ejemplo: "el inmueble identificado como Solar número ciento veintiocho, del tercer orden, ubicado en el Fraccionamiento de la Antigua Estación, como lote ciento cincuenta y cinco, calle primera y entre los lotes números ciento cincuenta y cuatro y ciento cincuenta y seis, de la  zona urbana de Álamos, Estado de Sonora".
+
+10. **[SUPERFICIE, RUMBOS, MEDIDAS Y COLINDANCIAS]:**
+   - Definición: Descripción íntegra de la superficie, rumbos, medidas y colindancias del inmueble sin modificaciones. En su caso, los bienes propiedad común y los porcentajes de indivisos.
+   - Ubicación: ANTECEDENTE PRIMERO o ANTECEDENTE DEL INMUEBLE OBJETO DE ESTE INSTRUMENTO.
+   - Ejemplo: “...DEPARTAMENTO 106 B (PLANTA BAJA ATRÁS A LA IZQUIERDA DE ACCESO II).
+   SUPERFICIE 62.89 M2 SUP. ÁREAS COMUNES 31.20 M2 (PASILLOS Y ESCALERAS) – COLINDANCIAS: - NORTE: 9.30 ML (así) EN 2 FRENTES  DE: 3.70 M2 CON ÁREA COMÚN DE ACCESO, 5.60 M CON DEPTO 107-B.- ORIENTE: 8.95 (así) M EN 3 FRENTES DE: 1.20 M CON ÁREA COMÚN DE ACCESO, 2.70 M CON DEPTO. 105 Y 4.60 M CON POZO DE LUZ – SUR: 9.30 M EN 3 FRENTES DE: 2.00 CON POZO DE LUZ, 6.80 DEPTO: 103 Y 0.50 ML (así) CON ÁREA JARDINADA DEL CONJUNTO – PONIENTE: 8.45 (así) M EN 2 FRENTES DE 2.75 M Y 5.75 M CON VACIO SOBRE AREA JARDINADA – ARRIBA: DEPARTAMENTOS (así) 206 – ABAJO: SUPERFICIE DE TERRENO…Dentro de los bienes de propiedad común, se localiza el estacionamiento número quince, de la sección dos D y jaula de tendido número seis B, que le fueron asignados al departamento materia de esta escritura, para su uso...”
+---
+**Plantilla para Generar Texto Final:**
+Usa los datos extraídos para completar la siguiente plantilla:
+```
+I.- DE PROPIEDAD.-Por escritura número [NÚMERO DE ESCRITURA EN LETRAS], de fecha [FECHA COMPLETA EN LETRAS DE LA ESCRITURA] ante el Licenciado | la Licenciada [NOMBRE COMPLETO DEL NOTARIO], titular de la Notaría número [NÚMERO DE NOTARÍA EN LETRAS], el señor| los señores | la señora | las señoras | [NOMBRE COMPLETO DEL ADQUIRENTE], estando [ESTADO CIVIL AL MOMENTO DE LA ADQUISICIÓN], adquirió por [ACTO JURÍDICO DE ADQUISICIÓN] y en precio de [IMPORTE DEL PRECIO DE ADQUISICIÓN] pesos, Moneda Nacional, el [DESCRIPCIÓN COMPLETA DEL INMUEBLE ADQUIRIDO], con la superficie, rumbos, medidas y colindancias que se describen en dicho instrumento, que son del tenor literal siguiente:
+
+"... [SUPERFICIE, RUMBOS, MEDIDAS Y COLINDANCIAS] ..."
+```
+**INSTRUCCIONES DE SALIDA:**
+- ES IMPERATIVO QUE SI UN CAMPO NO EXISTE O ES AMBIGUO DEJAR EL CAMPO CON SUS CORCHETES,
+- ES IMPERATIVO QUE LOS DATOS SEAN VERÍDICOS, QUE EXISTAN EN EL DOCUMENTOS, NO INVENTES PALABRAS NI FRASES QUE NO EXISTAN EN EL DOCUMENTO.
+- ES IMPERATIVO QUE TRANSCRIBAS LITERALMENTE Y TEXTUALMENTE EL DATO, SIN MODIFICAR NI UNA SOLA LETRA O PALABRA.
+- ES IMPERATIVO QUE ASEGURES QUE LOS DATOS SON COHERENTES ENTRE SI, QUE:
+    A) EL NÚMERO DE ESCRITURA CORRESPONDA AL NÚMERO QUE ESTÁ EN LOS 4 PRIMEROS RENGLONES DEL DOCUMENTO.
+    B) EL ADQUIRENTE ES QUIEN "ADQUIERE" EL INMUEBLE.
+    C) LA DESCRIPCIÓN DEL INMUEBLE SEA LA MISMA QUE SE ENCUENTRA EN LA CLÁUSULA PRIMERA DE LA COMPRAVENTA.
+    D) LA SUPERFICIE, RUMBOS, MEDIDAS Y COLINDANCIAS CORRESPONDAN AL INMUEBLE ANTES DESCRITO.
+- REGRESA ÚNICAMENTE LA PLANTILLA LLENA.
+- NO AGREGUES COMENTARIOS O NOTAS ADICIONALES.
+===

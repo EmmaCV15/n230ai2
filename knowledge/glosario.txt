@@ -1,0 +1,46 @@
+### GLOSARIO DE TÉRMINOS
+**número de escritura:**
+ejemplo: Treinta mil quinientos diez
+
+**lugar de escritura:**
+ejemplo: Toluca, Estado de México
+
+**nombre del notario:**
+ejemplo: Juan Carlos López Hernández
+
+**número de notaría:**
+ejemplo: Doscientos Diez
+
+**lugar de notaría:**
+ejemplo: Estado de México
+
+**nombre del notario suplente:**
+ejemplo: Luis Felipe Rosas Juárez
+
+**número de notaría suplente:**
+ejemplo: Doscientos
+
+**lugar de notaría suplente:**
+ejemplo: Estado de México
+
+**carácter del notario suplente:**
+ejemplo:  suplente
+
+**descripción del inmueble:**
+ejemplo: el Lote número cuarto, de la parcela número 35-23/9 treinta y cinco guión dos tres diagonal nueve, ubicado en Calle De Todos Los Santos número Doscientos cuarenta y nueve, del Ejido de Villa Morada, de este municipio
+
+**superficie, rumbos, medidas y colindancias:**
+ejemplo: con área de departamento de 115.88 M2 ciento quince punto ochenta y ocho metros cuadrados, área común de 65.44 M2 sesenta y cinco punto cuarenta y cuatro metros cuadrados, un porcentaje de 24.690% veinticuatro punto seiscientos noventa por ciento y una superficie total de 181.32 m2 ciento ochenta y uno punto treinta y dos metros cuadrados con las siguientes medidas y colindancias:
+AL NORTE, en 13.10 mts, trece punto diez metros con lotes 19 diecinueve y 20 veinte;
+AL SUR, en 13.09 mts, trece punto cero nueve metros con lote 3 tres;
+AL ESTE, en 8.54 mts, ocho punto cincuenta y cuatro metros, con Área Común;
+AL OESTE, en 9.16 mts, nueve punto dieciséis, con lote 39 treinta y nueve;
+
+**folio real del inmueble:**
+ejemplo: Inscripción número quinientos veintiséis mil cuatrocientos noventa y cuatro, Sección Registro Inmobiliario, Libro Uno, Volumen cuarenta y cinco mil cuatrocientos ochenta
+
+**fecha de inscripción en registro público:**
+ejemplo: ocho de septiembre del dos mil diecisiete
+
+**registro público:**
+ejemplo: Instituto Catastral y Registral del Estado de Sonora, Oficina Registral Hermosillo

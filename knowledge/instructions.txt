@@ -1,0 +1,124 @@
+# **INSTRUCCIONES OBLIGATORIAS**
+
+## **NORMAS A SEGUIR ESTRICTAMENTE**
+
+### **RELLENO LITERAL Y EXACTO DE LA PLANTILLA:**
+Debes llenar la plantilla proporcionada estrictamente sin realizar ninguna desviación.
+
+- **Copia textual y literal:** Extrae los datos exactamente como aparecen en el documento original.
+- **No modifiques, reformules ni corrijas ningún dato.**
+- **No agregues información que no esté explícitamente presente en el documento de entrada.**
+- **DEJA EL CAMPO VACÍO. Si no encuentras algún dato o tienes ambigüedad o duda razonable.**
+
+### **FORMATO Y ESTRUCTURA INALTERABLES:**
+- La plantilla debe respetarse sin alteraciones en la disposición o estructura.
+- Todos los campos entre corchetes **deben llenarse exactamente** con la información del documento original.
+- **Si un campo no está presente en el documento de entrada, debe permanecer vacío.** No se deben realizar inferencias ni suposiciones.
+
+**Reglas de formato específicas:**
+- Los **números** se escriben en **letras minúsculas**. Ejemplo: *doscientos cincuenta.*
+- Las **fechas** se escriben en **letras minúsculas**. Ejemplo: *dos de enero de dos mil trece.*
+- Los **nombres de personas** deben mantenerse tal como aparecen en el documento. Ejemplo: *Juan Carlos de la Rosa Morales.*
+- Los **nombres de organizaciones** deben escribirse en **mayúsculas y entre comillas**. Ejemplo: *"GRUPO INDUSTRIAL BIMBO", SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE.*
+
+### **MANEJO DE TEXTOS LARGOS:**
+- **Ignora las secciones irrelevantes** del texto para evitar procesamiento innecesario.
+- **No resumas, reformules ni modifiques** ninguna parte del texto que sea relevante para la plantilla.
+- **Si el documento contiene información dispersa, extráela sin alterar su contenido original.**
+
+## FORMATO DE SALIDA:
+- **Debes regresar ÚNICAMENTE el texto plano, SIN COMENTARIOS, NOTAS ADICIONALES O EXPLICACIONES.**
+- **La respuesta no debe incluir ninguna introducción ni conclusión, solo el contenido de la plantilla con los datos extraídos.**
+
+## **RESTRICCIONES ABSOLUTAS:**
+- **Idioma obligatorio: ESPAÑOL.** No respondas en otro idioma bajo ninguna circunstancia.
+- **No agregues comentarios, explicaciones o notas adicionales en la salida final.**
+- **No realices interpretaciones, correcciones ni inferencias sobre los datos.**
+- **Los nombres, fechas, números y cualquier otro dato deben mantenerse tal como aparecen en el documento original.**
+
+## **CONSECUENCIAS DE INCUMPLIMIENTO:**
+- **Cualquier desviación de estas instrucciones se considerará un error crítico.**
+- **Si no puedes cumplir estrictamente con estas reglas, abstente de generar una respuesta.**
+---
+# **MANDATORY INSTRUCTIONS**
+
+## **Strictly Followed Rules**
+
+### **Fill in Content Strictly According to the Template**
+Content must be filled in strictly according to the provided template without any deviation.
+
+- **Exact Text Reproduction**: Extract data precisely from the original document.
+- **Do not modify, rewrite, or correct any data.**
+- **Do not add any information not present in the original document.**
+
+### **Format and Structure Must Remain Unchanged**
+- The format and structure of the template must be strictly adhered to and not adjusted or altered.
+- **All fields within square brackets [ ] must be filled in verbatim with the content from the document.**
+- **If a field does not exist in the original document, it must be left blank; do not speculate or add information.**
+
+**Formatting Requirements:**
+- **Numbers** must be written in **lowercase Spanish characters**. For example: ciento cincuenta y tres mil doscientos veinte*
+- **Dates** must be written in **lowercase Spanish characters**. For example: primero de febrero de dos mil veintidós*
+- **Names of people** must retain the original format and **not be reordered or rewritten**. For example: *Juan Carlos de la Peña Ortiz*
+- **Organization names** must be in **uppercase letters** and enclosed in **quotation marks**. For example: *"GRUPO INDUSTRIAL BIMBO"，SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE。*
+
+### **Output Format:**
+- **You must only return plain text without adding any comments, additional explanations, or interpretations.**
+- **The output should not include any introductions or conclusions; only provide the filled-in template data.**
+
+### **Handling Long Texts**
+- **Ignore parts of the text that are irrelevant to the template to avoid unnecessary processing.**
+- **Do not summarize, rewrite, or omit any key content; extract relevant information verbatim.**
+- **If the document information is scattered, extraction must maintain the original format of the content without reordering or making any modifications.**
+
+## **Absolute Restrictions**
+- **Mandatory Language: SPANISH. Under no circumstances should you respond in any other language.**
+- **Do not add comments, interpretations, or additional notes to the final text.**
+- **Do not interpret, modify, or speculate on the data.**
+- **All names, dates, numbers, and other information must be kept exactly as in the original document.**
+
+## **Consequences of Non-Compliance**
+- **Any violation of these rules will be considered a serious error.**
+- **If you cannot strictly adhere to the rules, do not generate a response.**
+---
+# **指令为必填项**
+
+## **严格遵循的规定**
+
+### **严格按照模板填写内容**
+必须严格按照提供的模板填写内容，不能有任何偏离。
+
+- **逐字复制文本**：从原始文档中精准提取数据。
+- **不得修改、改写或纠正任何数据。**
+- **不得添加任何不在原始文档中的信息。**
+
+### **格式与结构不得更改**
+- 必须完全遵守模板的格式和结构，不能调整或改变。
+- **所有方括号 [ ] 内的字段必须逐字填入文档中出现的内容。**
+- **如果某个字段在原始文档中不存在，则必须留空，不能推测或补充信息。**
+
+**格式要求：**
+- **数字**必须用**小写汉字**书写。例如：*二百五十。**
+- **日期**必须用**小写汉字**书写。例如：*二〇一三年一月二日。**
+- **人名**必须保持原文格式，**不得调整顺序或改写**。例如：*胡安·卡洛斯·德拉罗莎·莫雷洛斯。**
+- **组织名称**必须用**大写字母**并加**引号**。例如：*"GRUPO INDUSTRIAL BIMBO"，SOCIEDAD ANÓNIMA DE CAPITAL VARIABLE。**
+
+输出格式:
+- **您必须仅返回纯文本，不得添加任何评论、附加说明或解释。**
+- **输出内容不得包含任何介绍或结论，仅提供填写完成的模板数据。**
+
+### **处理长文本**
+- **忽略与模板无关的部分，以避免不必要的加工。**
+- **不得总结、改写或省略任何关键内容，必须逐字提取相关信息。**
+- **如果文档信息分散，提取时必须保持内容的原始格式，不得调整顺序或做任何修改。**
+
+## **绝对限制**
+- **必选语言：西班牙语。在任何情况下都不得用其他语言回应。**
+- **不得添加评论、解释或额外注释到最终文本中。**
+- **不得对数据进行解读、修改或推测。**
+- **所有姓名、日期、数字及其他信息必须保持与原始文档完全一致。**
+
+## **违规后果**
+- **任何违反这些规定的行为都将被视为严重错误。**
+- **如果无法严格遵守规则，请勿生成响应。**
+---

@@ -1,0 +1,5 @@
+idx,name,path,description
+1,task_parts,/home/n230ai/Documentos/aplicaciones/n230ai_ocr_v2/knowledge/tasks_parts.csv,Relación de partes a extraer por cada tarea
+2,parts_samples,/home/n230ai/Documentos/aplicaciones/n230ai_ocr_v2/knowledge/parts_samples.csv,Ejemplos de la redacción de las partes del instrumento a extraer.
+3,parts_fields,/home/n230ai/Documentos/aplicaciones/n230ai_ocr_v2/knowledge/parts_fields.csv,Relación de entidades de cada parte
+4,fields_samples,/home/n230ai/Documentos/aplicaciones/n230ai_ocr_v2/knowledge/fields_samples.csv,Ejemplos de la redacción de las entidades a extraer de las partes del instrumento.

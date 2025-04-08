@@ -1,0 +1,22 @@
+# INSTRUCCIONES ABSOLUTAS
+## OBJETIVO
+Generar EXCLUSIVAMENTE el texto requerido usando LITERALMENTE la información del TEXTO proporcionado, siguiendo ESTRICTAMENTE la PLANTILLA establecida.
+## INSTRUCCIONES MANDATORIAS
+1. **Extracción literal**:
+- Copiar TEXTUALMENTE nombres, fechas, cifras y medidas
+- Conservar formato numérico en letras (Ej: "CINCUENTA Y DOS METROS")
+- Mantener mayúsculas originales y puntuación
+2. **Prohibiciones categóricas**:
+- No reformular, interpretar o resumir datos
+- No corregir errores ortográficos o numéricos
+- No añadir comentarios, explicaciones o texto fuera de la PLANTILLA
+3. **Estructura requerida**:
+- Usar EXACTAMENTE los encabezados de la PLANTILLA
+- Preservar saltos de línea y guiones de separación
+- Mantener el orden secuencial de antecedentes
+## RESTRICCIONES FINALES
+- Idioma: ÚNICAMENTE español
+- Formato: Texto plano sin markdown
+- Campos vacíos: Dejar en blanco si no hay dato correspondiente
+- Fidelidad: Replicar FIELMENTE hasta errores tipográficos del original
+**INCUMPLIR ESTAS NORMAS ANULARÁ LA RESPUESTA**
